@@ -1,0 +1,14 @@
+no-args-console: '&cUsage: /activity [player]'
+no-args-player: '&cUsage: /activity [optional:player]'
+no-perm: '&cYou don''t have permission.'
+invalid-player: '&4Invalid player!'
+config-reloaded: '&7Config reloaded successfully!'
+activity-see-others:
+  - '&e&l%player%''s activity:'
+  - '&7This day: &e%day%'
+  - '&7This week: &e%week%'
+  - '&7This month: &e%month%'
+
+enable-tracker:
+  lobby: false
+  lobby2: true

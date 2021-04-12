@@ -1,0 +1,4 @@
+name: OPActivity
+version: ${project.version}
+main: net.buzz.Main
+author: buzz#9999
